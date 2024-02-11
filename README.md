@@ -2,13 +2,13 @@
 
 To create a Django Project you need to follow the below steps:
 
-[1️⃣ Create a Project directory](##Create-a-Project-directory)
+[1️⃣ Create a Project directory](#create-a-project-directory)
 
-[2️⃣ Create a Virtual Environment](##Create-a-Virtual-Environment)
+[2️⃣ Create a Virtual Environment](#create-a-virtual-environment)
 
-[3️⃣ Create a Django Project](##Project-Structure-and-Creating-a-django-project)
+[3️⃣ Create a Django Project](#project-structure-and-creating-a-django-project)
 
-[4️⃣ Run Development Server](##Run-Development-Server)
+[4️⃣ Run Development Server](#run-development-server)
 
 ## Create a Project directory
 
