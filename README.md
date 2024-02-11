@@ -1,6 +1,27 @@
 # Django Project Guide
 
-## Project Structure
+To create a Django Project you need to follow the below steps:
+
+[1️⃣ Create a Project directory](##Create-a-Project-directory)
+
+[2️⃣ Create a Virtual Environment](##Create-a-Virtual-Environment)
+
+[3️⃣ Create a Django Project](##Project-Structure-and-Creating-a-django-project)
+
+[4️⃣ Run Development Server](##Run-Development-Server)
+
+## Create a Project directory
+
+```bash
+mkdir demoproject
+cd demoproject
+```
+
+## Create a Virtual Environment
+
+👉 ([Click Here](https://github.com/SaadARazzaq/venvpy))
+
+## Project Structure and Creating a django project
 
 When installing Django globally or in a virtual environment, Python recommends using isolated environment libraries and other dependencies required for a particular application. ([Make Sure to do all the things in the venv](https://github.com/SaadARazzaq/venvpy))
 
@@ -103,6 +124,8 @@ python manage.py migrate
 ```
 
 ![image](https://github.com/SaadARazzaq/Django-Project-Guide/assets/123338307/7ccf8525-35da-446b-b76f-f3757b161d80)
+
+## Run Development Server
 
 #### **runserver**
 
